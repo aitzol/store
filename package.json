@@ -35,19 +35,19 @@
   },
   "homepage": "https://github.com/ngrx/store#readme",
   "peerDependencies": {
-    "@angular/core": "^2.0.0",
+    "@angular/core": "^4.0.0",
     "rxjs": "^5.0.0-beta.12",
-    "@ngrx/core": "^1.1.0"
+    "@ngrx/core": "^1.2.0"
   },
   "devDependencies": {
-    "@angular/common": "^2.0.0",
-    "@angular/compiler": "^2.0.0",
-    "@angular/compiler-cli": "^0.6.0",
-    "@angular/core": "^2.0.0",
-    "@angular/platform-browser": "^2.0.0",
-    "@angular/platform-browser-dynamic": "^2.0.0",
-    "@angular/platform-server": "^2.0.0",
-    "@ngrx/core": "^1.2.0",
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/compiler-cli": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/platform-server": "^4.0.0",
+    "@ngrx/core": "git+ssh://git@github.com:aitzol/core#angular4core120",
     "@types/jasmine": "^2.2.33",
     "@types/node": "^6.0.38",
     "awesome-typescript-loader": "^2.2.1",
@@ -71,6 +71,6 @@
     "typescript": "^2.0.2",
     "uglifyjs": "^2.4.10",
     "webpack": "^2.1.0-beta.21",
-    "zone.js": "^0.6.17"
+    "zone.js": "^0.8.4"
   }
 }
